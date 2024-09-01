@@ -64,8 +64,6 @@ print(button_radio_button.text)
 print(button_web_tables.text)
 print(button_buttons.text)
 
-
-
 print(button_text_box.click())
 print(button_check_box.click())
 print(button_radio_button.click())
